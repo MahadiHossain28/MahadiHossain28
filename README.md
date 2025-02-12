@@ -45,3 +45,5 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahadihossain28&theme=nord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahadihossain28&hide=html,css&theme=cobalt&show_icons=true&layout=compact&)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mahadihossain28&border_radius=6)](https://git.io/streak-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahadihossain28)
